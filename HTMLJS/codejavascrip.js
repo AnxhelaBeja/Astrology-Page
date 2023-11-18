@@ -1,0 +1,1 @@
+console.log("Mesazhi shfaqet ne consol ne file te ndara");
